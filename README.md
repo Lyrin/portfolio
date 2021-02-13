@@ -3,6 +3,4 @@
  January 2021
  
  ------------------------------
-Treehouse Techdegree 
-Front End Web Development
--------------------------------
+ Treehouse Techdegree - Front End Web Development
