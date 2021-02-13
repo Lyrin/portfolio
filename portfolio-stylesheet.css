@@ -1,0 +1,31 @@
+/*Portfolio Stylesheet */
+
+body {
+	font-family: 'arial';
+}
+
+.main-img {
+  border: solid 5px black;
+  border-radius: 50%;
+  filter: grayscale(100%);
+  width: 200px;
+}
+
+h1 {
+  background-color: #e2e2e2;
+  padding: 5px;
+  font-family: 'Bodoni Moda', serif;
+  text-transform: uppercase;
+}
+
+#main-nav {
+	display: inline;
+}
+
+#main-nav li {
+  display: inline;
+}
+
+.section-title {
+  font-family: 'Bodoni Moda', serif;
+}
